@@ -1,0 +1,16 @@
+D:\BVU\OOP\in_class\Buoi4\Bai1Advanced\bin\Debug\Bai1Advanced.exe.config
+D:\BVU\OOP\in_class\Buoi4\Bai1Advanced\bin\Debug\Bai1Advanced.exe
+D:\BVU\OOP\in_class\Buoi4\Bai1Advanced\bin\Debug\Bai1Advanced.pdb
+D:\BVU\OOP\in_class\Buoi4\Bai1Advanced\obj\Debug\Bai1Advanced.csproj.AssemblyReference.cache
+D:\BVU\OOP\in_class\Buoi4\Bai1Advanced\obj\Debug\Bai1Advanced.csproj.SuggestedBindingRedirects.cache
+D:\BVU\OOP\in_class\Buoi4\Bai1Advanced\obj\Debug\Bai1Advanced.csproj.CoreCompileInputs.cache
+D:\BVU\OOP\in_class\Buoi4\Bai1Advanced\obj\Debug\Bai1Advanced.exe
+D:\BVU\OOP\in_class\Buoi4\Bai1Advanced\obj\Debug\Bai1Advanced.pdb
+D:\BVU\OOP\in_class\Buoi4+5\Bai1Advanced\bin\Debug\Bai1Advanced.exe.config
+D:\BVU\OOP\in_class\Buoi4+5\Bai1Advanced\bin\Debug\Bai1Advanced.exe
+D:\BVU\OOP\in_class\Buoi4+5\Bai1Advanced\bin\Debug\Bai1Advanced.pdb
+D:\BVU\OOP\in_class\Buoi4+5\Bai1Advanced\obj\Debug\Bai1Advanced.csproj.AssemblyReference.cache
+D:\BVU\OOP\in_class\Buoi4+5\Bai1Advanced\obj\Debug\Bai1Advanced.csproj.SuggestedBindingRedirects.cache
+D:\BVU\OOP\in_class\Buoi4+5\Bai1Advanced\obj\Debug\Bai1Advanced.csproj.CoreCompileInputs.cache
+D:\BVU\OOP\in_class\Buoi4+5\Bai1Advanced\obj\Debug\Bai1Advanced.exe
+D:\BVU\OOP\in_class\Buoi4+5\Bai1Advanced\obj\Debug\Bai1Advanced.pdb

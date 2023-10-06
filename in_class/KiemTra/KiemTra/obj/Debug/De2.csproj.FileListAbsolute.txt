@@ -1,0 +1,8 @@
+D:\BVU\OOP\in_class\KiemTra\KiemTra\bin\Debug\KiemTra.exe.config
+D:\BVU\OOP\in_class\KiemTra\KiemTra\bin\Debug\KiemTra.exe
+D:\BVU\OOP\in_class\KiemTra\KiemTra\bin\Debug\KiemTra.pdb
+D:\BVU\OOP\in_class\KiemTra\KiemTra\obj\Debug\De2.csproj.AssemblyReference.cache
+D:\BVU\OOP\in_class\KiemTra\KiemTra\obj\Debug\De2.csproj.SuggestedBindingRedirects.cache
+D:\BVU\OOP\in_class\KiemTra\KiemTra\obj\Debug\De2.csproj.CoreCompileInputs.cache
+D:\BVU\OOP\in_class\KiemTra\KiemTra\obj\Debug\KiemTra.exe
+D:\BVU\OOP\in_class\KiemTra\KiemTra\obj\Debug\KiemTra.pdb

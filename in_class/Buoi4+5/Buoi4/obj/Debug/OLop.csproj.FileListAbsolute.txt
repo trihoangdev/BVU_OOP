@@ -1,0 +1,8 @@
+D:\BVU\OOP\in_class\Buoi4\Buoi4\obj\Debug\OLop.csproj.AssemblyReference.cache
+D:\BVU\OOP\in_class\Buoi4\Buoi4\obj\Debug\OLop.csproj.SuggestedBindingRedirects.cache
+D:\BVU\OOP\in_class\Buoi4\Buoi4\obj\Debug\OLop.csproj.CoreCompileInputs.cache
+D:\BVU\OOP\in_class\Buoi4\Buoi4\bin\Debug\Buoi4.exe.config
+D:\BVU\OOP\in_class\Buoi4\Buoi4\bin\Debug\Buoi4.exe
+D:\BVU\OOP\in_class\Buoi4\Buoi4\bin\Debug\Buoi4.pdb
+D:\BVU\OOP\in_class\Buoi4\Buoi4\obj\Debug\Buoi4.exe
+D:\BVU\OOP\in_class\Buoi4\Buoi4\obj\Debug\Buoi4.pdb

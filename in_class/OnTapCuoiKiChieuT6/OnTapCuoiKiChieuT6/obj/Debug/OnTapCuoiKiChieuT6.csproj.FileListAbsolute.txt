@@ -1,0 +1,8 @@
+D:\BVU\OOP\in_class\OnTapCuoiKiChieuT6\OnTapCuoiKiChieuT6\bin\Debug\OnTapCuoiKiChieuT6.exe.config
+D:\BVU\OOP\in_class\OnTapCuoiKiChieuT6\OnTapCuoiKiChieuT6\bin\Debug\OnTapCuoiKiChieuT6.exe
+D:\BVU\OOP\in_class\OnTapCuoiKiChieuT6\OnTapCuoiKiChieuT6\bin\Debug\OnTapCuoiKiChieuT6.pdb
+D:\BVU\OOP\in_class\OnTapCuoiKiChieuT6\OnTapCuoiKiChieuT6\obj\Debug\OnTapCuoiKiChieuT6.csproj.AssemblyReference.cache
+D:\BVU\OOP\in_class\OnTapCuoiKiChieuT6\OnTapCuoiKiChieuT6\obj\Debug\OnTapCuoiKiChieuT6.csproj.SuggestedBindingRedirects.cache
+D:\BVU\OOP\in_class\OnTapCuoiKiChieuT6\OnTapCuoiKiChieuT6\obj\Debug\OnTapCuoiKiChieuT6.csproj.CoreCompileInputs.cache
+D:\BVU\OOP\in_class\OnTapCuoiKiChieuT6\OnTapCuoiKiChieuT6\obj\Debug\OnTapCuoiKiChieuT6.exe
+D:\BVU\OOP\in_class\OnTapCuoiKiChieuT6\OnTapCuoiKiChieuT6\obj\Debug\OnTapCuoiKiChieuT6.pdb

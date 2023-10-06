@@ -1,0 +1,8 @@
+D:\BVU\OOP\in_class\ProjectQLBH\ProjectQLBH\bin\Debug\ProjectQLBH.exe.config
+D:\BVU\OOP\in_class\ProjectQLBH\ProjectQLBH\bin\Debug\ProjectQLBH.exe
+D:\BVU\OOP\in_class\ProjectQLBH\ProjectQLBH\bin\Debug\ProjectQLBH.pdb
+D:\BVU\OOP\in_class\ProjectQLBH\ProjectQLBH\obj\Debug\ProjectQLBH.csproj.AssemblyReference.cache
+D:\BVU\OOP\in_class\ProjectQLBH\ProjectQLBH\obj\Debug\ProjectQLBH.csproj.SuggestedBindingRedirects.cache
+D:\BVU\OOP\in_class\ProjectQLBH\ProjectQLBH\obj\Debug\ProjectQLBH.csproj.CoreCompileInputs.cache
+D:\BVU\OOP\in_class\ProjectQLBH\ProjectQLBH\obj\Debug\ProjectQLBH.exe
+D:\BVU\OOP\in_class\ProjectQLBH\ProjectQLBH\obj\Debug\ProjectQLBH.pdb

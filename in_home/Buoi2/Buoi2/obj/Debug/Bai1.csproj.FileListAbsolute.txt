@@ -1,0 +1,8 @@
+D:\BVU\OOP\in_home\Buoi2\Buoi2\bin\Debug\Buoi2.exe.config
+D:\BVU\OOP\in_home\Buoi2\Buoi2\bin\Debug\Buoi2.exe
+D:\BVU\OOP\in_home\Buoi2\Buoi2\bin\Debug\Buoi2.pdb
+D:\BVU\OOP\in_home\Buoi2\Buoi2\obj\Debug\Bai1.csproj.AssemblyReference.cache
+D:\BVU\OOP\in_home\Buoi2\Buoi2\obj\Debug\Bai1.csproj.SuggestedBindingRedirects.cache
+D:\BVU\OOP\in_home\Buoi2\Buoi2\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+D:\BVU\OOP\in_home\Buoi2\Buoi2\obj\Debug\Buoi2.exe
+D:\BVU\OOP\in_home\Buoi2\Buoi2\obj\Debug\Buoi2.pdb
